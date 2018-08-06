@@ -1,0 +1,8 @@
+<html>
+<head>
+    </title><link rel="stylesheet" href="style8-2.css"></head>
+<body>
+        <a href="" target="_blank"><img src="Espanalogo.jpg" class="mainimagelink"/></a> 
+    <h1>Rinconcito de Blog-Sra. Gural<h1>
+   <p> <i>Haz clic en las fotos para visitar la provincia de Galicia</p></i>       
+             

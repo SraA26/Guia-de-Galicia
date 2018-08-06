@@ -1,0 +1,6 @@
+html> 
+<head>
+    <title>Galicia>
+    </title></head>
+<body>
+    <h1>Rinconcito de Blog-Sra. Gural<h1>
